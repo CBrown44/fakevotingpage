@@ -1,0 +1,12 @@
+body{
+    background: #483D3F;
+}
+
+.col-1-2{
+    float: left;
+    width: 50%;
+}
+
+div#dem{
+    background: #6BBAEC;
+}
