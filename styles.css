@@ -1,34 +1,40 @@
+html{
+    background-color:  #d8e3e7;
+}
 body{
-    background: #483D3F;
-}
-
-.col-1-2{
-    float: left;
-    width: 50%;
-}
-
-div#dem{
-    background: #6BBAEC;
-}
-
-h1{
     text-align: center;
 }
-
-p{
+form{
+    border: 1px solid black;
     text-align: center;
+    font-size: 40px;
+    background-color: azure;
+    position: center;
+    margin-left: 8rem;
+    margin-right: 8rem;
 }
-
-.container {
-    height: 200px;
-    position: relative;
+.rNixon{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 100px;
+    font-size: 35px;
 }
-  
-.center {
-    margin: 0;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
+.nixButton{
+    text-decoration: none;
 }
+.nixon{
+    border: 1px solid black;
+}
+.mc{
+    border: 1px solid black;
+}
+.rMcGovern{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 100px;
+    font-size: 30px;
+    text-decoration: none;
+}
+div.col-1-1{width:100%}
