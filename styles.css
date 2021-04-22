@@ -1,5 +1,11 @@
+@font-face{
+    font-family: "ninja";
+    src: url("AsianNinja-z874L.ttf");
+}
 html{
     background-color:  #50514F;
+    font-family: "ninja", sans-serif;
+    color: #F8F1FF;
 }
 body{
     text-align: center;
